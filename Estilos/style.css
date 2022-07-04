@@ -9,7 +9,7 @@
 html, body {
     height: 100vh; /*Altura de 100% do navegador.*/
     width: 100vw; /*Largura de 100% do navegador.*/
-    background-color: black;
+    background-color: burlywood;
 }
 
 body {
